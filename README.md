@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my GitHub Page!
-I am newley graduated web developer.
-:mountain_bicyclist:
+<br>
+<br>
+I'm a newly trained Web Developer after spending nearly eight years in Service and Management in the Agriculture business. I have recently moved from the United States ✈️ to Germany and am ready to start working here in this endlesslessly stunning country. 
+<br>
+<br>
+When I am not studying new code or working on bettering my code, I like to catch as many bike rides as I can with my son. 🚴‍♂️
+<br>
+<br>
+Feel free to check out some of my pins to see what I have been up to, and if you have any questions, don't hesitate to e-mail me. 
