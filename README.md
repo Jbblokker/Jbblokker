@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub Page!
 <br>
-🌱 I’m currently learning Python and German
+🌱 I’m currently learning: Python and German
 <br>
-💬 Ask me about my experience working in a start-up
+💬 Ask me about my experience: working in a start-up
 <br>
 ⚡ Fun fact: I like to play hand drums and have built my own Cajon
 <br>
