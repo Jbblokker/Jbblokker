@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my GitHub Page!
+<br>
 🌱 I’m currently learning Python and German
 <br>
 💬 Ask me about my experience working in a start-up
