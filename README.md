@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 Welcome to my GitHub Page!
 🌱 I’m currently learning Python and German
+<br>
 💬 Ask me about my experience working in a start-up
+<br>
 ⚡ Fun fact: I like to play hand drums and have built my own Cajon
+<br>
 📫 How to reach me: jbblokker@outlook.com
 <br>
 <br>
