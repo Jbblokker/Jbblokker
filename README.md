@@ -25,10 +25,10 @@ Welcome to my GitHub Page!
 📫 How to reach me: jbblokker@outlook.com
 <br>
 <br>
-I'm a Junior Developer with experience in working in a remote start-up here in Germany :european_castle:. In my previous life, I spent nearly eight years in Service and Management in the Agriculture business. I am originally from the United States but have moved ✈️ to Germany in the past year and I have enjoyed working here in this endlesslessly stunning country. 
+I'm a Junior Developer with experience in working in a remote start-up here in Germany :european_castle:. In my previous life, I spent nearly eight years in Service and Management in the Agriculture business. I am originally from the United States but have moved ✈️ to Germany in the past year and I have enjoyed working in this endlesslessly stunning country. 
 <br>
 <br>
-When I am not studying new code or working on bettering my code, I like to catch as many bike rides as I can with my son. 🚴‍♂️
+When I am not studying new code or working on improving my code, I like to catch as many bike rides as I can with my son. 🚴‍♂️
 <br>
 <br>
 Feel free to check out some of my pins to see what I have been up to, and if you have any questions, don't hesitate to e-mail me. 
