@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Welcome to my GitHub Page!
 <br>
 <br>
-I'm a newly trained Web Developer after spending nearly eight years in Service and Management in the Agriculture business. I have recently moved from the United States ✈️ to Germany and am ready to start working here in this endlesslessly stunning country. 
+I'm a Junior Developer with experience in working in a remote start-up here in Germany 🇩🇪. In my previous life, I spent nearly eight years in Service and Management in the Agriculture business. I am originally from the United States but have moved ✈️ to Germany in the past year and I have enjoyed working here in this endlesslessly stunning country. 
 <br>
 <br>
 When I am not studying new code or working on bettering my code, I like to catch as many bike rides as I can with my son. 🚴‍♂️
